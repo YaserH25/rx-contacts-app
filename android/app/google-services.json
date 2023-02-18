@@ -29,6 +29,13 @@
             {
               "client_id": "7123453782-05rloljovlu32vgpr88ak1gm8fvfbur9.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "7123453782-jlf0gk08h8oa86obgvusa1a86u0u3fda.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseRxdartProject"
+              }
             }
           ]
         }

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7123453782",
+    "project_id": "rx-contacts-app-yaser",
+    "storage_bucket": "rx-contacts-app-yaser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7123453782:android:b4bc00404469cb9788f8f7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_rxdart_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7123453782-05rloljovlu32vgpr88ak1gm8fvfbur9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-DmSSYbIt85fQGjHNNYtFnTlwHPFYgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7123453782-05rloljovlu32vgpr88ak1gm8fvfbur9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
